@@ -36,6 +36,8 @@ vignettes/*.pdf
 *.utf8.md
 *.knit.md
 
+# R Environment Variables
+.Renviron
 
 # translation temp files
 po/*~
