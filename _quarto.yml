@@ -1,0 +1,46 @@
+project:
+  type: website
+
+website: 
+  page-navigation: true
+  title: "ARDM Workshop" 
+  site-url: https://rinpharma.com
+  repo-url: https://github.com/joanacmbarros/ardm-website
+  repo-actions: [edit, issue]
+  
+  page-footer:
+    left: "This page is built with ❤️ and [Quarto](https://quarto.org/). Inspired by [ggsurvfit](https://www.danieldsjoberg.com/ggsurvfit-useR-2023/) and [STA210](https://sta210-s22.github.io/website/)."
+    
+  sidebar:
+    logo: "img/logo.png"
+    pinned: true
+    align: center
+    tools: 
+      - icon: book
+        href: https://www.nature.com/articles/s41597-022-01789-2
+        text: "Why we should respect analysis results as data"
+      - icon: github
+        href: https://github.com/joanacmbarros/analysis-results-data-model
+        text: "Analysis Results Data Model"
+  
+    style: "docked"
+    search: true
+    collapse-level: 3
+    border: true
+    
+    contents:
+      - href: index.qmd
+        text: Welcome
+      - href: agenda.qmd
+        text: Agenda
+      # - href: materials.qmd
+      #   text: Materials
+
+format:
+  html:
+    theme: yeti
+    css: styles.css
+    toc: true
+
+
+

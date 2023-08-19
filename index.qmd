@@ -1,0 +1,53 @@
+---
+title: "Workshop title"
+subtitle: "R in Pharma 2023"
+engine: knitr
+---
+
+
+**When**: week of 16th to 20th of October
+
+**Where**: virtual @ R in Pharma
+
+**How to register**: [coming soon](https://rinpharma.com)!
+
+
+## Description {#description}
+
+The development and approval of new treatments generates large volumes of results, such as summaries of efficacy and safety from supporting clinical trials through the development phases. However, these results are often shared in formats that are suitable for presentation such as PDF, PowerPoint, or HTML documents with text, tables, and figures, but not machine-readable or amenable to further analysis. Although there is an agreement on which information should be shared as part of a data package, there is no standard way to share and reuse analysis results. A solution is to shift the focus from the application of the results (e.g., tables and figures) to a data model that captures the results.
+
+In this workshop, you will learn about the Analysis Results Data Model (ARDM), a framework for storing and managing the outputs of data analyses.  You will learn how the ARDM can help you overcome common challenges in clinical development, such as data reusability and reproducibility. Through case-studies, you will experience using the ARDM in real-world problems and scenarios.
+
+## News {#news}
+
+<!-- - Subriscribe to our mailing list to receive news (you can also unsubscribe here) -->
+
+- [20/August/2023] Website is live!
+
+## Facilitators {#people}
+
+![](img/joanambarros.png){style="float:left;padding: 0 10px 0 0;" fig-alt="Headshot of Joana Marques Barros" width="150"}
+
+[**Joana Marques Barros**](https://linkedin.com/in/joanambarros) Placeholder.
+
+[`r fontawesome::fa("linkedin")`](https://linkedin.com/in/joanambarros)
+[`r fontawesome::fa("github")`](https://github.com/joanacmbarros)
+
+<br> <br>
+<br> <br>
+
+[**Lukas Widmer**](https:///) Placeholder.
+
+<br> <br>
+
+![](img/mark.png){style="float:left;padding: 0 10px 0 0;" fig-alt="Headshot of Mark Baillie" width="140"}
+
+[**Mark Baillie**](https://bailliem.github.io) is a member of the Advanced Methodology and Data Science group at Novartis. He focuses on [methodology](https://www.tandfonline.com/doi/full/10.1080/19466315.2022.2063172?src=recsys) to support drug development, working on a variety of internal and external initiatives to improve the reporting of clinical trials. These include [effective visual communication](https://graphicsprinciples.github.io/), [initial data analysis](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1009819), [DMC reporting](https://trialsjournal.biomedcentral.com/articles/10.1186/s13063-023-07290-4), [analaysis results standards](https://www.nature.com/articles/s41597-022-01789-2), and [data challenges](https://arxiv.org/abs/2304.05658). Mark is a member of the [Stratos initiative](https://stratos-initiative.org/en) and the PSI [visualisation](https://github.com/VIS-SIG) special interest group.  
+
+[`r fontawesome::fa("link")`](https://bailliem.github.io)
+[`r fontawesome::fa("linkedin")`](https://www.linkedin.com/in/mark-baillie-52486735/)
+[`r fontawesome::fa("github")`](https://github.com)
+
+<br> <br>
+
+[**Simon Wandel**](https:///) Placeholder.
