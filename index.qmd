@@ -1,5 +1,5 @@
 ---
-title: "Workshop title"
+title: "A Case-Study Driven Introduction to the Analysis Results Data Model"
 subtitle: "R in Pharma 2023"
 engine: knitr
 ---
@@ -26,19 +26,21 @@ In this workshop, you will learn about the Analysis Results Data Model (ARDM), a
 
 ## Facilitators {#people}
 
+<!-- create a circle crop of pictures using https://github.com/doehm/cropcircles  -->
+
 ![](img/joanambarros.png){style="float:left;padding: 0 10px 0 0;" fig-alt="Headshot of Joana Marques Barros" width="150"}
 
-[**Joana Marques Barros**](https://linkedin.com/in/joanambarros) Placeholder.
+[**Joana Marques Barros**](https://linkedin.com/in/joanambarros) is a Clinical Data Scientist at Idorsia Pharmaceuticals. In 2020, she earned her PhD in computer science, and soon after that, she began working in the pharmaceutical sector. Joana was part of the AI4Life 2021 program at Novartis, where she worked on a project that reframed the target of clinical analyses to make them more transparent, traceable, and interoperable. She keeps developing her knowledge and expertise in clinical development while continuing to show a keen interest in data management.
 
 [`r fontawesome::fa("linkedin")`](https://linkedin.com/in/joanambarros)
 [`r fontawesome::fa("github")`](https://github.com/joanacmbarros)
 
 <br> <br>
-<br> <br>
+<!-- <br> <br> -->
 
-[**Lukas Widmer**](https:///) Placeholder.
+<!-- [**Lukas Widmer**](https:///) Placeholder. -->
 
-<br> <br>
+<!-- <br> <br> -->
 
 ![](img/mark.png){style="float:left;padding: 0 10px 0 0;" fig-alt="Headshot of Mark Baillie" width="140"}
 
@@ -48,6 +50,6 @@ In this workshop, you will learn about the Analysis Results Data Model (ARDM), a
 [`r fontawesome::fa("linkedin")`](https://www.linkedin.com/in/mark-baillie-52486735/)
 [`r fontawesome::fa("github")`](https://github.com)
 
-<br> <br>
+<!-- <br> <br> -->
 
-[**Simon Wandel**](https:///) Placeholder.
+<!-- [**Simon Wandel**](https:///) Placeholder. -->

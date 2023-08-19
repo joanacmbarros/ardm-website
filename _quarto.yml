@@ -4,7 +4,8 @@ project:
 
 website: 
   page-navigation: true
-  title: "ARDM Workshop" 
+  title: "A Case-Study Driven Introduction to the Analysis Results Data Model" 
+  site-url: https://joanacmbarros.github.io/ardm-website/
   repo-url: https://github.com/joanacmbarros/ardm-website
   repo-actions: [edit, issue]
   
