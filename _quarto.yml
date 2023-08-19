@@ -17,6 +17,9 @@ website:
     pinned: true
     align: center
     tools: 
+      - icon: globe
+        href: https://joanacmbarros.github.io/ardm-website/
+        text: "Website repository"
       - icon: book
         href: https://www.nature.com/articles/s41597-022-01789-2
         text: "Why we should respect analysis results as data"
@@ -30,10 +33,10 @@ website:
     border: true
     
     contents:
-      - href: index.qmd
-        text: Welcome
-      - href: agenda.qmd
-        text: Agenda
+      - file: index.qmd
+        text: "Welcome"
+      - file: agenda.qmd
+        text: "Agenda"
       # - href: materials.qmd
       #   text: Materials
 
