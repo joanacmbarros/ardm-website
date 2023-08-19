@@ -1,5 +1,5 @@
 ---
-title: "A Case-Study Driven Introduction to the Analysis Results Data Model"
+title: "A Case-Study Driven Introduction to the ARDM"
 subtitle: "R in Pharma 2023"
 engine: knitr
 ---
