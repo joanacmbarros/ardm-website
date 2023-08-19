@@ -1,0 +1,30 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Workshop title",
+    "section": "",
+    "text": "When: week of 16th to 20th of October\nWhere: virtual @ R in Pharma\nHow to register: coming soon!"
+  },
+  {
+    "objectID": "index.html#description",
+    "href": "index.html#description",
+    "title": "Workshop title",
+    "section": "Description",
+    "text": "Description\nThe development and approval of new treatments generates large volumes of results, such as summaries of efficacy and safety from supporting clinical trials through the development phases. However, these results are often shared in formats that are suitable for presentation such as PDF, PowerPoint, or HTML documents with text, tables, and figures, but not machine-readable or amenable to further analysis. Although there is an agreement on which information should be shared as part of a data package, there is no standard way to share and reuse analysis results. A solution is to shift the focus from the application of the results (e.g., tables and figures) to a data model that captures the results.\nIn this workshop, you will learn about the Analysis Results Data Model (ARDM), a framework for storing and managing the outputs of data analyses. You will learn how the ARDM can help you overcome common challenges in clinical development, such as data reusability and reproducibility. Through case-studies, you will experience using the ARDM in real-world problems and scenarios."
+  },
+  {
+    "objectID": "index.html#news",
+    "href": "index.html#news",
+    "title": "Workshop title",
+    "section": "News",
+    "text": "News\n\n\n[20/August/2023] Website is live!"
+  },
+  {
+    "objectID": "index.html#people",
+    "href": "index.html#people",
+    "title": "Workshop title",
+    "section": "Facilitators",
+    "text": "Facilitators\n\nJoana Marques Barros Placeholder.\n \n   \nLukas Widmer Placeholder.\n \n\nMark Baillie is a member of the Advanced Methodology and Data Science group at Novartis. He focuses on methodology to support drug development, working on a variety of internal and external initiatives to improve the reporting of clinical trials. These include effective visual communication, initial data analysis, DMC reporting, analaysis results standards, and data challenges. Mark is a member of the Stratos initiative and the PSI visualisation special interest group.\n  \n \nSimon Wandel Placeholder."
+  }
+]

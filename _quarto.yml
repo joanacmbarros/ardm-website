@@ -1,10 +1,10 @@
 project:
   type: website
+  output-dir: docs
 
 website: 
   page-navigation: true
   title: "ARDM Workshop" 
-  site-url: https://rinpharma.com
   repo-url: https://github.com/joanacmbarros/ardm-website
   repo-actions: [edit, issue]
   
@@ -42,6 +42,4 @@ format:
     css: styles.css
     toc: true
 
-execute:
-  freeze: auto
 
