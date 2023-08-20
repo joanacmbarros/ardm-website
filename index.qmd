@@ -38,8 +38,9 @@ In this workshop, you will learn about the Analysis Results Data Model (ARDM), a
 <br> <br>
 <!-- <br> <br> -->
 
-<!-- [**Lukas Widmer**](https:///) Placeholder. -->
+[**Lukas Widmer**](https://www.linkedin.com/in/lukas-widmer-37800b9b/) is currently an Associate Directory Statistical Consultant in the Advanced Methodology and Data Science group at Novartis. In his role, he provides advice for clinical projects and is engaged in developing and implementing innovative statistical methods for clinical projects. He also develops trainings for internal statisticians and collaborates with external research groups. Lukas has diverse research interests, including safety modelling in dose escalation, Bayesian statistics, genetic engineering, high performance computing as well as statistical software engineering. Before joining Novartis, he studied Computer Science as well as Computational Biology and Bioinformatics at ETH Zurich in Switzerland and UC Santa Barbara in the US. He also holds a Doctor of Science degree from the Department of Biosystems, Science and Engineering of ETH Zurich. 
 
+<br> <br>
 <!-- <br> <br> -->
 
 ![](img/mark.png){style="float:left;padding: 0 10px 0 0;" fig-alt="Headshot of Mark Baillie" width="140"}
