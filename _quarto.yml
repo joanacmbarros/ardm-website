@@ -4,7 +4,7 @@ project:
 
 website: 
   page-navigation: true
-  title: "A Case-Study Driven Introduction to the Analysis Results Data Model" 
+  title: "A Case-Study Driven Motivation of Analysis Results Data" 
   site-url: https://joanacmbarros.github.io/ardm-website/
   repo-url: https://github.com/joanacmbarros/ardm-website
   repo-actions: [edit, issue]

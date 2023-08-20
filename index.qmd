@@ -1,11 +1,11 @@
 ---
-title: "A Case-Study Driven Introduction to the ARDM"
+title: "A Case-Study Driven Motivation of Analysis Results Data"
 subtitle: "R in Pharma 2023"
 engine: knitr
 ---
 
 
-**When**: week of 16th to 20th of October
+**When**: week of 16^th^ to 20^th^ of October
 
 **Where**: virtual @ R in Pharma
 
