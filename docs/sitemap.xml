@@ -2,10 +2,14 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://joanacmbarros.github.io/ardm-website/index.html</loc>
-    <lastmod>2023-08-19T16:25:04.122Z</lastmod>
+    <lastmod>2023-08-20T13:14:33.498Z</lastmod>
   </url>
   <url>
     <loc>https://joanacmbarros.github.io/ardm-website/agenda.html</loc>
     <lastmod>2023-08-19T16:25:17.271Z</lastmod>
+  </url>
+  <url>
+    <loc>https://joanacmbarros.github.io/ardm-website/materials.html</loc>
+    <lastmod>2023-08-20T12:18:37.860Z</lastmod>
   </url>
 </urlset>
