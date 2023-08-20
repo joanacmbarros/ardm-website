@@ -38,17 +38,23 @@ In this workshop, you will learn about the Analysis Results Data Model (ARDM), a
 <br> <br>
 <!-- <br> <br> -->
 
-<!-- [**Lukas Widmer**](https:///) Placeholder. -->
+![](img/lukas.png){style="float:left;padding: 0 10px 0 0;" fig-alt="Headshot of Lukas Widmer" width="140"}
 
+[**Lukas A. Widmer**](https://www.linkedin.com/in/lukas-widmer-37800b9b/) is an Associate Directory Statistical Consultant in the Advanced Methodology and Data Science group at Novartis. He provides advice and is engaged in developing and implementing innovative statistical methods for clinical projects, develops [trainings for statisticians and data scientists](https://cen2023.github.io/home/courses.html#Go_fastR:_High_Performance_Computing_with_R), and collaborates with external research groups. Lukas has diverse research interests, including [safety modelling in dose escalation and Bayesian statistics](https://cran.r-project.org/package=OncoBayes2), [re-use of data through analysis results data modeling](https://www.nature.com/articles/s41597-022-01789-2), genetic engineering, [high performance computing](https://cen2023.github.io/home/courses.html#Go_fastR:_High_Performance_Computing_with_R) as well as statistical software engineering. Before joining Novartis, he studied Computer Science as well as Computational Biology and Bioinformatics at ETH Zürich in Switzerland and UC Santa Barbara in the US. He also holds a Doctor of Science degree from the Department of Biosystems, Science and Engineering of ETH Zürich. 
+
+[`r fontawesome::fa("linkedin")`](https://www.linkedin.com/in/lukas-widmer-37800b9b/)
+[`r fontawesome::fa("github")`](https://github.com/luwidmer)
+
+<br> <br>
 <!-- <br> <br> -->
 
 ![](img/mark.png){style="float:left;padding: 0 10px 0 0;" fig-alt="Headshot of Mark Baillie" width="140"}
 
-[**Mark Baillie**](https://bailliem.github.io) is a member of the Advanced Methodology and Data Science group at Novartis. He focuses on [methodology](https://www.tandfonline.com/doi/full/10.1080/19466315.2022.2063172?src=recsys) to support drug development, working on a variety of internal and external initiatives to improve the reporting of clinical trials. These include [effective visual communication](https://graphicsprinciples.github.io/), [initial data analysis](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1009819), [DMC reporting](https://trialsjournal.biomedcentral.com/articles/10.1186/s13063-023-07290-4), [analaysis results standards](https://www.nature.com/articles/s41597-022-01789-2), and [data challenges](https://arxiv.org/abs/2304.05658). Mark is a member of the [Stratos initiative](https://stratos-initiative.org/en) and the PSI [visualisation](https://github.com/VIS-SIG) special interest group.  
+[**Mark Baillie**](https://bailliem.github.io) is a member of the Advanced Methodology and Data Science group at Novartis. He focuses on [methodology](https://www.tandfonline.com/doi/full/10.1080/19466315.2022.2063172?src=recsys) to support drug development, working on a variety of internal and external initiatives to improve the reporting of clinical trials. These include [effective visual communication](https://graphicsprinciples.github.io/), [initial data analysis](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1009819), [DMC reporting](https://trialsjournal.biomedcentral.com/articles/10.1186/s13063-023-07290-4), [analysis results standards](https://www.nature.com/articles/s41597-022-01789-2), and [data challenges](https://arxiv.org/abs/2304.05658). Mark is a member of the [Stratos initiative](https://stratos-initiative.org/en) and the PSI [visualisation](https://github.com/VIS-SIG) special interest group.  
 
 [`r fontawesome::fa("link")`](https://bailliem.github.io)
 [`r fontawesome::fa("linkedin")`](https://www.linkedin.com/in/mark-baillie-52486735/)
-[`r fontawesome::fa("github")`](https://github.com)
+[`r fontawesome::fa("github")`](https://github.com/bailliem)
 
 <!-- <br> <br> -->
 
