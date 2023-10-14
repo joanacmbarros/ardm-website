@@ -5,4 +5,18 @@ engine: knitr
 
 ## Agenda {#agenda}
 
-TBA
+(subject to changes)
+
+| Minutes| Section     |
+|---|:----------|
+| 5 | Housekeeping                                                        |
+| 10| Getting to know you & Expectations                                  |
+| 15| What are Analysis Results Datasets and Analysis Results Data Models |
+| 20| The reasoning for Analysis Results Data Models                      |
+| 5 | Break                                                               |
+| 10| Introduction to the Case Study                                      |  
+| 40| Exercises                                                           |
+| 15| Closing                                                             |
+
+: {tbl-colwidths="[10,75]"} 
+

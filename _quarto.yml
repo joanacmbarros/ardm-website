@@ -37,8 +37,8 @@ website:
         text: "Welcome"
       - file: agenda.qmd
         text: "Agenda"
-      # - href: materials.qmd
-      #   text: Materials
+      - href: related.qmd
+        text: Related Work
 
 format:
   html:
