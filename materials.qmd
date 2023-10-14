@@ -1,3 +1,30 @@
 ---
-title: "Materials"
+title: "Good to know"
 ---
+
+In this page you can find a collection of software and initiatives that, in our view, are related to
+the principles behind the Analysis Results Data Model. If you want to find more about the principles, please [check our paper](https://www.nature.com/articles/s41597-022-01789-2).
+
+
+- Observational Medical Outcomes Partnership (OMOP) Common Data Model
+  - [Website](https://www.ohdsi.org/data-standardization/)
+  
+- Project X @ Idorsia
+  - Video
+  - [Presentation at R in Pharma 2023](https://rinpharma.com/publication/rinpharma_343/)
+
+- NovoNordisk 
+  - Quick mention of analysis results datasets at minute XX:XX
+
+- CDISC's Analysis Results Standard
+  - [Website](https://www.cdisc.org/standards/foundational/analysis-results-standards)
+  - [Hackathon 2023](https://www.cdisc.org/events/webinar/analysis-results-standards-hackathon-kick)
+
+- {cards}
+  - [Package documentation](https://insightsengineering.github.io/cards/)
+  - Info from hackathon
+
+- {tfmrt}
+   - [Package documentation](https://gsk-biostatistics.github.io/tfrmt/)
+   - Past presentation at R in Pharma 2022
+

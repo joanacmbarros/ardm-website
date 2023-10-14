@@ -5,11 +5,11 @@ engine: knitr
 ---
 
 
-**When**: week of 16^th^ to 20^th^ of October
+**When**: 19^th^ of October
 
 **Where**: virtual @ R in Pharma
 
-**How to register**: [coming soon](https://rinpharma.com)!
+**How to register**: [Click here!](https://www.eventbrite.com/e/a-case-study-driven-motivation-of-analysis-results-data-tickets-728493261957)
 
 
 ## Description {#description}
@@ -23,6 +23,7 @@ In this workshop, you will learn about the Analysis Results Data Model (ARDM), a
 <!-- - Subriscribe to our mailing list to receive news (you can also unsubscribe here) -->
 
 - [20/August/2023] Website is live!
+- [11/October/2023] Link to registration and agenda update.
 
 ## Facilitators {#people}
 
@@ -40,7 +41,7 @@ In this workshop, you will learn about the Analysis Results Data Model (ARDM), a
 
 ![](img/lukas.png){style="float:left;padding: 0 10px 0 0;" fig-alt="Headshot of Lukas Widmer" width="140"}
 
-[**Lukas A. Widmer**](https://www.linkedin.com/in/lukas-widmer-37800b9b/) is an Associate Directory Statistical Consultant in the Advanced Methodology and Data Science group at Novartis. He provides advice and is engaged in developing and implementing innovative statistical methods for clinical projects, develops [trainings for statisticians and data scientists](https://cen2023.github.io/home/courses.html#Go_fastR:_High_Performance_Computing_with_R), and collaborates with external research groups. Lukas has diverse research interests, including [safety modelling in dose escalation and Bayesian statistics](https://cran.r-project.org/package=OncoBayes2), [re-use of data through analysis results data modeling](https://www.nature.com/articles/s41597-022-01789-2), genetic engineering, [high performance computing](https://cen2023.github.io/home/courses.html#Go_fastR:_High_Performance_Computing_with_R) as well as statistical software engineering. Before joining Novartis, he studied Computer Science as well as Computational Biology and Bioinformatics at ETH Zürich in Switzerland and UC Santa Barbara in the US. He also holds a Doctor of Science degree from the Department of Biosystems, Science and Engineering of ETH Zürich. 
+[**Lukas A. Widmer**](https://www.linkedin.com/in/lukas-widmer-37800b9b/) is an Associate Director Statistical Consultant in the Advanced Methodology and Data Science group at Novartis. He provides advice and is engaged in developing and implementing innovative statistical methods for clinical projects, develops [trainings for statisticians and data scientists](https://cen2023.github.io/home/courses.html#Go_fastR:_High_Performance_Computing_with_R), and collaborates with external research groups. Lukas has diverse research interests, including [safety modelling in dose escalation and Bayesian statistics](https://cran.r-project.org/package=OncoBayes2), [re-use of data through analysis results data modeling](https://www.nature.com/articles/s41597-022-01789-2), genetic engineering, [high performance computing](https://cen2023.github.io/home/courses.html#Go_fastR:_High_Performance_Computing_with_R) as well as statistical software engineering. Before joining Novartis, he studied Computer Science as well as Computational Biology and Bioinformatics at ETH Zürich in Switzerland and UC Santa Barbara in the US. He also holds a Doctor of Science degree from the Department of Biosystems, Science and Engineering of ETH Zürich. 
 
 [`r fontawesome::fa("linkedin")`](https://www.linkedin.com/in/lukas-widmer-37800b9b/)
 [`r fontawesome::fa("github")`](https://github.com/luwidmer)
