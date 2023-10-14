@@ -23,7 +23,7 @@ In this workshop, you will learn about the Analysis Results Data Model (ARDM), a
 <!-- - Subriscribe to our mailing list to receive news (you can also unsubscribe here) -->
 
 - [20/August/2023] Website is live!
-- [11/October/2023] Link to registration and agenda update.
+- [14/October/2023] Link to registration and agenda update.
 
 ## Facilitators {#people}
 

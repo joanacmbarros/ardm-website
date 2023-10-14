@@ -5,38 +5,18 @@ engine: knitr
 
 ## Agenda {#agenda}
 
-(tentative; subject to changes)
+(subject to changes)
 
+| Minutes| Section     |
+|---|:----------|
+| 5 | Housekeeping                                                        |
+| 10| Getting to know you & Expectations                                  |
+| 15| What are Analysis Results Datasets and Analysis Results Data Models |
+| 20| The reasoning for Analysis Results Data Models                      |
+| 5 | Break                                                               |
+| 10| Introduction to the Case Study                                      |  
+| 40| Exercises                                                           |
+| 15| Closing                                                             |
 
-| Minutes | Left |
-|---------|:-----|
-| 12      | Housekeeping|
-| 123     | Getting to know you & Expectations|
-| 1       | What are Analysis Results Datasets (ARD) and Analysis Results Data Models (ARDM)|
-| 1       | Who are we|
-| 1       | The reasoning for ARDM|
-| 1       | Break|
-| 1       | What are Analysis Results Datasets (ARD) and Analysis Results Data Models (ARDM)|
-| 1       | Introduction to the Case Study|
-| 1       | Exercise 1|
-| 1       | Exercise 2|
-| 1       | Break     |
-| 1       | Exercise 3|
-| 1       | Closing   |
+: {tbl-colwidths="[10,75]"} 
 
-
-<!-- | Minutes | Left | -->
-<!-- |---------|:-----| -->
-<!-- | 1       | Housekeeping| -->
-<!-- | 1       | Getting to know you & Expectations| -->
-<!-- | 1       | What are Analysis Results Datasets (ARD) and Analysis Results Data Models (ARDM)| -->
-<!-- | 1       | Who are we| -->
-<!-- | 1       | The reasoning for ARDM| -->
-<!-- | 1       | Break| -->
-<!-- | 1       | What are Analysis Results Datasets (ARD) and Analysis Results Data Models (ARDM)| -->
-<!-- | 1       | Introduction to the Case Study| -->
-<!-- | 1       | Exercise 1| -->
-<!-- | 1       | Exercise 2| -->
-<!-- | 1       | Break     | -->
-<!-- | 1       | Exercise 3| -->
-<!-- | 1       | Closing   | -->

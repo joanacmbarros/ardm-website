@@ -18,7 +18,7 @@
     "href": "index.html#news",
     "title": "A Case-Study Driven Motivation of Analysis Results Data",
     "section": "News",
-    "text": "News\n\n\n[20/August/2023] Website is live!\n[11/October/2023] Link to registration and agenda update."
+    "text": "News\n\n\n[20/August/2023] Website is live!\n[14/October/2023] Link to registration and agenda update."
   },
   {
     "objectID": "index.html#people",
@@ -32,14 +32,14 @@
     "href": "agenda.html",
     "title": "A Case-Study Driven Motivation of Analysis Results Data",
     "section": "",
-    "text": "(tentative; subject to changes)\n\n\n\n\n\n\nLeft\n\n\n\n\nHousekeeping\n\n\nGetting to know you & Expectations\n\n\nWhat are Analysis Results Datasets (ARD) and Analysis Results Data Models (ARDM)\n\n\nWho are we\n\n\nThe reasoning for ARDM\n\n\nBreak\n\n\nWhat are Analysis Results Datasets (ARD) and Analysis Results Data Models (ARDM)\n\n\nIntroduction to the Case Study\n\n\nExercise 1\n\n\nExercise 2\n\n\nBreak\n\n\nExercise 3\n\n\nClosing"
+    "text": "(subject to changes)\n\n\n\n\n\n\n\nMinutes\nSection\n\n\n\n\n5\nHousekeeping\n\n\n10\nGetting to know you & Expectations\n\n\n15\nWhat are Analysis Results Datasets and Analysis Results Data Models\n\n\n20\nThe reasoning for Analysis Results Data Models\n\n\n5\nBreak\n\n\n10\nIntroduction to the Case Study\n\n\n40\nExercises\n\n\n15\nClosing"
   },
   {
     "objectID": "agenda.html#agenda",
     "href": "agenda.html#agenda",
-    "title": "A Case-Study Driven Introduction to the Analysis Results Data Model",
+    "title": "A Case-Study Driven Motivation of Analysis Results Data",
     "section": "",
-    "text": "TBA"
+    "text": "(subject to changes)\n\n\n\n\n\n\n\nMinutes\nSection\n\n\n\n\n5\nHousekeeping\n\n\n10\nGetting to know you & Expectations\n\n\n15\nWhat are Analysis Results Datasets and Analysis Results Data Models\n\n\n20\nThe reasoning for Analysis Results Data Models\n\n\n5\nBreak\n\n\n10\nIntroduction to the Case Study\n\n\n40\nExercises\n\n\n15\nClosing"
   },
   {
     "objectID": "materials.html",
@@ -47,5 +47,12 @@
     "title": "Good to know",
     "section": "",
     "text": "In this page you can find a collection of software and initiatives that, in our view, are related to the principles behind the Analysis Results Data Model. If you want to find more about the principles, please check our paper.\n\nObservational Medical Outcomes Partnership (OMOP) Common Data Model\n\nWebsite\n\nProject X @ Idorsia\n\nVideo\nPresentation at R in Pharma 2023\n\nNovoNordisk\n\nQuick mention of analysis results datasets at minute XX:XX\n\nCDISC’s Analysis Results Standard\n\nWebsite\nHackathon 2023\n\n{cards}\n\nPackage documentation\nInfo from hackathon\n\n{tfmrt}\n\nPackage documentation\nPast presentation at R in Pharma 2022"
+  },
+  {
+    "objectID": "related.html",
+    "href": "related.html",
+    "title": "Related work",
+    "section": "",
+    "text": "In this page you can find a collection of software and initiatives that, in our view, are related to the principles behind the Analysis Results Data Model. If you want to find more about the principles, please check our paper.\n\nObservational Medical Outcomes Partnership (OMOP) Common Data Model\n\nWebsite\n\n\n\n\nProject X @ Idorsia\n\nVideo\nUpcoming Presentation at R in Pharma 2023\n\n\n\n\nCDISC’s Analysis Results Standard\n\nWebsite\nHackathon 2023\n\n\n\n\n{cards}\n\nPackage documentation\n\n\n\n\n{tfmrt}\n\nPackage documentation"
   }
 ]
