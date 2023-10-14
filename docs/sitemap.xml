@@ -1,19 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
+    <loc>https://joanacmbarros.github.io/ardm-website/related.html</loc>
+    <lastmod>2023-10-14T12:06:34.840Z</lastmod>
+  </url>
+  <url>
     <loc>https://joanacmbarros.github.io/ardm-website/index.html</loc>
-    <lastmod>2023-10-14T12:00:08.132Z</lastmod>
+    <lastmod>2023-10-14T12:06:31.492Z</lastmod>
   </url>
   <url>
     <loc>https://joanacmbarros.github.io/ardm-website/agenda.html</loc>
-    <lastmod>2023-10-14T12:00:14.697Z</lastmod>
-  </url>
-  <url>
-    <loc>https://joanacmbarros.github.io/ardm-website/materials.html</loc>
-    <lastmod>2023-10-14T11:36:02.554Z</lastmod>
-  </url>
-  <url>
-    <loc>https://joanacmbarros.github.io/ardm-website/related.html</loc>
-    <lastmod>2023-10-14T11:59:56.235Z</lastmod>
+    <lastmod>2023-10-14T12:06:34.192Z</lastmod>
   </url>
 </urlset>
