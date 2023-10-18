@@ -11,8 +11,8 @@ engine: knitr
 |---|:----------|
 | 5 | Housekeeping                                                        |
 | 10| Getting to know you & Expectations                                  |
-| 15| What are Analysis Results Datasets and Analysis Results Data Models |
-| 20| The reasoning for Analysis Results Data Models                      |
+| 15| What are Analysis Results Data and the Analysis Results Data Model  |
+| 20| The reasoning for an ARDM & The ARDM in more details                |
 | 5 | Break                                                               |
 | 10| Introduction to the Case Study                                      |  
 | 40| Exercises                                                           |
