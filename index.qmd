@@ -1,15 +1,15 @@
 ---
 title: "A Case-Study Driven Motivation of Analysis Results Data"
-subtitle: "R in Pharma 2023"
+subtitle: "19^th^ of October @ R in Pharma 2023"
 engine: knitr
 ---
 
+Thank you for your interest in Analysis Results Data.
 
-**When**: 19^th^ of October
+The workshop recording will be available soon on Youtube. In the meanwhile the presentation slides can be can be [downloaded here](https://drive.google.com/file/d/1GXeHeDvMupfUTskVmdZk53PxoqiLBh-U/view?usp=share_link) and you can find the workshop materials in this [GitHub repository](https://github.com/joanacmbarros/ardm-workshop). 
 
-**Where**: virtual @ R in Pharma
+We would also love to [hear your feedback](https://forms.gle/kWGxSWJUFTfoHP9X6) on the workshop!
 
-**How to register**: [Click here!](https://www.eventbrite.com/e/a-case-study-driven-motivation-of-analysis-results-data-tickets-728493261957)
 
 
 ## Description {#description}

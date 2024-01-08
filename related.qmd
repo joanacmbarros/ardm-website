@@ -11,7 +11,7 @@ In this page you can find a collection of software and initiatives that, in our 
 
 -   Idorsia's Shiny app to collect metadata
     -   [Video](https://gateway.on24.com/wcc/eh/2309258/lp/4266406/september-webinar-wednesday-2023)
-    -   **Upcoming** [Presentation at R in Pharma 2023 - 26 October](https://rinpharma.com/event/rinpharma2023/)
+    -   [Presentation at R in Pharma 2023 - 26 October](https://www.youtube.com/watch?v=W2a_3POkb2I)
     
 <p>
 
